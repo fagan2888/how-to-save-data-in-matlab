@@ -29,7 +29,7 @@ save('data.mat','variable1','variable2')
 
 Here is a plot showing how fast it is to read data in this format, compared to another format that supports partial loading of data (see below):
 
-![](.images/metrics.png)
+![](./images/metrics.png)
 
 
 ### These data formats don't work:
